@@ -1,0 +1,6 @@
+{
+  "name": "Galaxy Portfolio Generator",
+  "description": "An immersive, space-themed AI portfolio generator featuring instant importing, a live customization studio, a RAG-powered recruiter chatbot, a GitHub analyzer, mock interview practice, and resume optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
