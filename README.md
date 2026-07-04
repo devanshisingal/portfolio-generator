@@ -5,7 +5,7 @@ An immersive, space-themed AI-powered portfolio platform that enables developers
 ---
 
 ## 🚀 Key Modules & Features
-
+   
 ### 🌟 1. Live Customization Studio
 * **Interactive Control Center**: Switch between multiple stylized design themes (Galaxy, Cyberpunk Retro, Minimalist, Terminal) on the fly.
 * **Granular Edits**: Real-time side-by-side editing of contact information, bios, education, skills, and projects with immediate visual feedback.
